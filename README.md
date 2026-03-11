@@ -21,5 +21,8 @@ Your goal is to determine which combination of prompting technique + platform pr
 5.User experience
 
 OUTPUT:
+<img width="992" height="752" alt="image" src="https://github.com/user-attachments/assets/37eec6a2-cbca-47fe-9115-81dee75daa9a" />
+
 
 RESULT:
+thus it is verified and created successfully
